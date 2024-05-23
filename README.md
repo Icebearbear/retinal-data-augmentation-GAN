@@ -85,24 +85,24 @@ Throughout training, metrics such as discriminator accuracy and generator loss a
 Conditional Linear GAN Results (Base, Wide, Narrow)
 
 <p float="left">
-  <img src="./image-2.png" width="300" />
-  <img src=".//image-3.png" width="300" /> 
-  <img src=".//image-4.png" width="300" /> 
+  <img src="./images/image-2.png" width="300" />
+  <img src="./images//image-3.png" width="300" /> 
+  <img src="./images//image-4.png" width="300" /> 
 </p>
 
 Conditional Linear WGAN Results (Base, Wide, Narrow)
 
 <p float="left">
-  <img src="./image-5.png" width="300" />
-  <img src=".//image-6.png" width="300" /> 
-  <img src=".//image-7.png" width="300" /> 
+  <img src="./images/image-5.png" width="300" />
+  <img src="./images//image-6.png" width="300" /> 
+  <img src="./images//image-7.png" width="300" /> 
 </p>
 
 Convolution cGAN and WGAN
 
 <p float="left">
-  <img src="./image-8.png" width="300" />
-  <img src=".//image-9.png" width="300" /> 
+  <img src="./images/image-8.png" width="300" />
+  <img src="./images//image-9.png" width="300" /> 
 </p>
 
 ## Accuracy and Loss results
@@ -129,8 +129,8 @@ We used this cWGAN model to further train 30 epochs by changing the n_critic par
 n-critic 3 (left) n-critic=1 (right)
 
 <p float="left">
-  <img src="./image-10.png" width="300" />
-  <img src=".//image-11.png" width="300" /> 
+  <img src="./images/image-10.png" width="300" />
+  <img src="./images//image-11.png" width="300" /> 
 </p>
 
 The following is the results of the exploration of N-ciritic. It is observed that n-critic of 3 gives better results hence we will use n-ciritc 3 for further training
@@ -178,11 +178,11 @@ In summary, meticulous evaluation, coupled with strategic refinement through par
 ## Final Images with image distribution graph comparison (with best trained model)
 
 <p float="left">
-  <img src="./image-12.png" width="300" />
-  <img src=".//image-13.png" width="300" /> 
-  <img src=".//image-14.png" width="300" /> 
-  <img src=".//image-15.png" width="300" /> 
-  <img src=".//image-16.png" width="300" /> 
+  <img src="./images/image-12.png" width="300" />
+  <img src="./images//image-13.png" width="300" /> 
+  <img src="./images//image-14.png" width="300" /> 
+  <img src="./images//image-15.png" width="300" /> 
+  <img src="./images//image-16.png" width="300" /> 
 </p>
 
 ## Future Direction
